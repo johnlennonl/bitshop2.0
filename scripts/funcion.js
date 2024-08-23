@@ -53,3 +53,4 @@ function generarTarjetasDeProductos() {
 // Llama a la función para generar las tarjetas de productos
 generarTarjetasDeProductos();
 
+        

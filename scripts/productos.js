@@ -60,9 +60,60 @@ const productos = [
         botonTexto: "Comprar Ahora"
     },
     {
+        nombre: "Nike Elemental Belt Bag",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/bde1b8b8-9c3a-4fb5-b2b1-80458a653a1a/elemental-premium-fanny-pack-8l-cSVFX2.png",
+        precio: 40.55,
+        talla: "Riñonera (8L)",
+        color: "Gris",
+        descripcion: "Riñonera Nike Elemental Premium.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    {
+        nombre: "Nike Calm SE Slide Sandal ",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7138766e-a8b8-40d0-bd1c-c2f4424f3430/calm-se-mens-slides-1LcQk7.png",
+        precio: 49.55,
+        talla: "8",
+        color: "Gris",
+        descripcion: "Sandalias para Hombre Calm SE ",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    ,
+    {
+        nombre: "Nike P-6000 Premiun Sneaker",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e3cc2305-65bb-4824-b4bd-9474386f6656/p-6000-shoes-SGxVgg.png",
+        precio: 125.99,
+        talla: "8",
+        color: "Blanco",
+        descripcion: "Calzado para Hombre, Original",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    {
+        nombre: "New Balance Gender Inclusive 530 Sneaker",
+        imagen: "https://nb.scene7.com/is/image/NB/mr530sg_nb_03_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
+        precio: 59.99,
+        talla: "8H - 9.5M",
+        color: "Blanco",
+        descripcion: "Calzado Unisex Original NWB.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    {
+        nombre: "Nike Gamma Force Sneaker ",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/c20afd60-b230-4815-bfd2-6768c875f6cd/air-force-1-07-mens-shoes-J7xw5P.png",
+        precio: 79.99,
+        talla: "8",
+        color: "Blanco",
+        descripcion: "Calzado para Mujer , Original.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    {
         nombre: "Nike Air Force 1 '07 SE Sneaker",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a77350cd-fdb7-450f-8d3b-4a6999bf6db3/air-force-1-07-easyon-womens-shoes-q2Nz01.png",
-        precio: 90.55,
+        precio: 59.99,
         talla: "8",
         color: "Blanco",
         descripcion: "Calzado para Mujer, diseño clásico y versátil.",
