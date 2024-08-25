@@ -9,7 +9,7 @@ function generarTarjetasDeProductos() {
                     <div class="card-body">
                         <h5 class="card-title">${producto.nombre}</h5>
                         <p class="card-text descriptionProcducto">${producto.descripcion}</p>
-                        <p> Talla: ${producto.talla} </p>
+                        <p class="talla"> Talla: ${producto.talla} </p>
                         <div class="d-flex justify-content-between align-items-center">
                             <button class="btn cartBtn" data-producto="${producto.nombre}" data-precio="${producto.precio}">
                                 ${producto.botonTexto}
@@ -32,7 +32,10 @@ function generarTarjetasDeProductos() {
             Swal.fire({
                 title: '¿Quieres información de este producto?',
                 text: `Producto: ${producto} \nPrecio: $${precio}`,
-                icon: 'question',
+                imageUrl: 'img/shop.png', // Reemplaza con la ruta completa a tu imagen
+                imageWidth: 200, // Ajusta el ancho de la imagen según sea necesario
+                imageHeight: 200, // Ajusta la altura de la imagen según sea necesario
+                imageAlt: 'Imagen del producto',
                 showCancelButton: true,
                 confirmButtonText: 'Contactar',
                 cancelButtonText: 'Volver',
