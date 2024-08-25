@@ -169,7 +169,7 @@ a {
     font-weight: 600;
     text-decoration: none;
     cursor: pointer;
-    border: 1px solid black;
+    border: none;
     border-radius: 25px;
     outline: none;
     overflow: hidden;
@@ -202,7 +202,7 @@ a {
   
   .btnNavContacto:hover {
     color: #e1306c ;
-    border: 1px solid black;
+    border: none;
   }
   
   .btnNavContacto:hover::before {
