@@ -2,7 +2,7 @@ const productos = [
     {
         nombre: "Nike Max90 Swoosh Graphic T-Shirt Large",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/325ea07e-62df-49fb-9714-29b7a6f9a812/sportswear-mens-max90-t-shirt-Q1X4lj.png",
-        precio: 29.99,
+        precio: 34.99,
         talla: "Large",
         color: "Blanco",
         descripcion: "Camiseta gráfica con el icónico logo Swoosh de Nike.",
@@ -22,7 +22,7 @@ const productos = [
     {
         nombre: "Nike Dri-FIT UV Hyverse Fitness Top XX-Large, BLACK/WHITE",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ad59c742-aa0b-4961-a914-83bffc6367b0/ready-mens-dri-fit-short-sleeve-fitness-top-bc8lMz.png",
-        precio: 39.99,
+        precio: 29.99,
         talla: "XX-Large",
         color: "Negro/Blanco",
         descripcion: "Top de entrenamiento con tecnología Dri-FIT UV para una mayor comodidad.",
@@ -32,7 +32,7 @@ const productos = [
     {
         nombre: "Nike All Conditions Gear Lung Embroidered T-Shirt X-Large",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4cbb6958-db89-498c-b8c8-cad77a89abb7/playera-acg-bW3sRj.png",
-        precio: 32.99,
+        precio: 35.99,
         talla: "X-Large",
         color: "Negro",
         descripcion: "Camiseta ACG con diseño bordado, ideal para todas las condiciones.",
@@ -52,7 +52,7 @@ const productos = [
     {
         nombre: "Nike Sportswear Graphic T-Shirt X-Large",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/368b0783-f045-40ee-b6c9-3e29c02791cc/dri-fit-legend-mens-fitness-t-shirt-JmKL0d.png",
-        precio: 25.55,
+        precio: 29.99,
         talla: "X-Large",
         color: "Gris",
         descripcion: "Camiseta gráfica de Nike, ideal para entrenamientos.",
@@ -72,7 +72,7 @@ const productos = [
     {
         nombre: "Nike Calm SE Slide Sandal ",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/7138766e-a8b8-40d0-bd1c-c2f4424f3430/calm-se-mens-slides-1LcQk7.png",
-        precio: 49.55,
+        precio: 39.55,
         talla: "8",
         color: "Gris",
         descripcion: "Sandalias para Hombre Calm SE ",
@@ -93,7 +93,7 @@ const productos = [
     {
         nombre: "New Balance Gender Inclusive 530 Sneaker",
         imagen: "https://nb.scene7.com/is/image/NB/mr530sg_nb_03_i?$pdpflexf2$&qlt=80&fmt=webp&wid=440&hei=440",
-        precio: 59.99,
+        precio: 110.99,
         talla: "8H - 9.5M",
         color: "Blanco",
         descripcion: "Calzado Unisex Original NWB.",
@@ -113,7 +113,7 @@ const productos = [
     {
         nombre: "Nike Air Force 1 '07 SE Sneaker",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a77350cd-fdb7-450f-8d3b-4a6999bf6db3/air-force-1-07-easyon-womens-shoes-q2Nz01.png",
-        precio: 59.99,
+        precio: 79.99,
         talla: "8",
         color: "Blanco",
         descripcion: "Calzado para Mujer, diseño clásico y versátil.",
