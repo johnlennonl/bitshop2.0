@@ -41,8 +41,8 @@ const productos = [
     },
     {
         nombre: "Nike Sportswear Graphic T-Shirt X-Large, WHITE",
-        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d36c38ac-f01a-461e-9bac-b9a7fe1e2b74/acg-mens-dri-fit-t-shirt-Pmr19W.png",
-        precio: 29.99,
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/73393316-7170-4cb5-8d23-958bcd180b43/U+NSW+TEE+SPRING+BREAK+SUN.png",
+        precio: 35.99,
         talla: "X-Large",
         color: "Blanco",
         descripcion: "Camiseta gráfica Nike Sportswear, ideal para un look casual.",
