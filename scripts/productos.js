@@ -172,6 +172,19 @@ const productos = [
 
 
     }
+    ,
+    {
+        nombre: "Nike Air Force 1 '07 Basketball Sneaker",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/6fea218b-6fe9-4d9f-994c-9a0e45afc72d/W+AIR+FORCE+1+%270+7+NN.png",
+        precio: 89.99,
+        talla: "9.5",
+        color: "Negro/Blanco",
+        descripcion: "Calzado para Mujer, comodidad y estilo.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+
+
+    }
 ];
 
 
