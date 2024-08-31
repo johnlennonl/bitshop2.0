@@ -23,7 +23,7 @@ const productos = [
         nombre: "Nike Dri-FIT UV Hyverse Fitness Top XX-Large, BLACK/WHITE",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/ad59c742-aa0b-4961-a914-83bffc6367b0/ready-mens-dri-fit-short-sleeve-fitness-top-bc8lMz.png",
         precio: 29.99,
-        talla: "XX-Large",
+        talla: "X-Large",
         color: "Negro/Blanco",
         descripcion: "Top de entrenamiento con tecnología Dri-FIT UV para una mayor comodidad.",
         cantidad: 1,
