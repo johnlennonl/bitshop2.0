@@ -11,7 +11,7 @@ const productos = [
     },
     {
         nombre: "Nike Premium Essential Cotton T-Shirt X-Large, KHAKI",
-        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/d6121495-7cb6-4241-98c0-ffb973c9f93a/sportswear-premium-essentials-mens-t-shirt-L1sQd1.png",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/f4a77b14-ca60-4821-9566-a85fad536ebb/M+NSW+TEE+PREM+ESSNTL+SSNL+1.png",
         precio: 34.99,
         talla: "X-Large",
         color: "Khaki",
