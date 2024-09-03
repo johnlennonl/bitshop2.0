@@ -40,7 +40,7 @@ const productos = [
         botonTexto: "Comprar Ahora"
     },
     {
-        nombre: "Nike Sportswear Graphic T-Shirt X-Large, WHITE",
+        nombre: "Nike Sportswear Graphic T-Shirt X-Large,",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/73393316-7170-4cb5-8d23-958bcd180b43/U+NSW+TEE+SPRING+BREAK+SUN.png",
         precio: 35.99,
         talla: "X-Large",
@@ -50,9 +50,20 @@ const productos = [
         botonTexto: "Comprar Ahora"
     },
     {
-        nombre: "Nike Sportswear Graphic T-Shirt X-Large",
-        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/368b0783-f045-40ee-b6c9-3e29c02791cc/dri-fit-legend-mens-fitness-t-shirt-JmKL0d.png",
-        precio: 29.99,
+        nombre: "ADIDAS SPORTSWEAR Tiro T-Shirt",
+        imagen: "https://cdnv2.moovin.com.br/palotinaesportes/imagens/produtos/original/camiseta-mc-poliester-tiro-adidas-ip3786-fa955aa6fa9113ee8d17e9242b93ebe9.jpg",
+        precio: 35.00,
+        talla: "X-Large",
+        color: "Gris",
+        descripcion: "Camiseta gráfica de Nike, ideal para entrenamientos.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+
+    {
+        nombre: "ADIDAS SPORTSWEAR Tiro T-Shirt",
+        imagen: "https://assets.adidas.com/images/w_940,f_auto,q_auto/d0cf58b52d664509b979923d3e18dd59_9366/IS1542_21_model.jpg",
+        precio: 35.00,
         talla: "X-Large",
         color: "Gris",
         descripcion: "Camiseta gráfica de Nike, ideal para entrenamientos.",
