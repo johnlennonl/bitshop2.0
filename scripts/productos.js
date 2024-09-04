@@ -32,7 +32,7 @@ const productos = [
     {
         nombre: "Nike All Conditions Gear Lung Embroidered T-Shirt X-Large",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4cbb6958-db89-498c-b8c8-cad77a89abb7/playera-acg-bW3sRj.png",
-        precio: 35.99,
+        precio: 39.99,
         talla: "X-Large",
         color: "Negro",
         descripcion: "Camiseta ACG con diseño bordado, ideal para todas las condiciones.",
