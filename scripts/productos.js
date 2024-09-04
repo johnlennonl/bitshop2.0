@@ -61,6 +61,16 @@ const productos = [
     },
 
     {
+        nombre: "Nike ACG Women's Dri-FIT ADV T-Shirt",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/e7eec52c-164a-43ee-b32d-727f296b04a6/W+ACG+DFADV+TEE+SS.png",
+        precio: 35.00,
+        talla: "Large",
+        color: "Gris",
+        descripcion: "Camiseta Nike Dri-FIT ADV",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    {
         nombre: "ADIDAS SPORTSWEAR Tiro T-Shirt",
         imagen: "https://assets.adidas.com/images/w_940,f_auto,q_auto/d0cf58b52d664509b979923d3e18dd59_9366/IS1542_21_model.jpg",
         precio: 35.00,
@@ -144,8 +154,19 @@ const productos = [
     {
         nombre: "Nike Air Max Pulse Sneaker",
         imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/4a793797-a7e0-4214-9ae6-a1235113be86/air-max-pulse-mens-shoes-DWTVpN.png",
-        precio: 91.97,
+        precio: 99.99,
         talla: "8.5",
+        color: "Negro/Blanco",
+        descripcion: "Calzado para Hombre, comodidad y estilo.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+    },
+    ,
+    {
+        nombre: "Nike Air Max Pulse Sneaker",
+        imagen: "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/1a0845c0-ae9a-4939-b180-f966430d905c/NIKE+AIR+MAX+PULSE+EWT.png",
+        precio: 99.99,
+        talla: "8",
         color: "Negro/Blanco",
         descripcion: "Calzado para Hombre, comodidad y estilo.",
         cantidad: 1,
@@ -191,6 +212,19 @@ const productos = [
         talla: "9.5",
         color: "Negro/Blanco",
         descripcion: "Calzado para Mujer, comodidad y estilo.",
+        cantidad: 1,
+        botonTexto: "Comprar Ahora"
+
+
+    }
+    ,
+    {
+        nombre: "Air Pegasus '89 Sneaker",
+        imagen: "https://cdn-img.poizonapp.com/pro-img/cut-img/20240718/d95685fc0df64c0ba5e62c2543cf5838.jpg?x-oss-process=image/format,webp/resize,w_800",
+        precio: 79.99,
+        talla: "10",
+        color: "Negro/Blanco",
+        descripcion: "Calzado para Hombre, comodidad y estilo.",
         cantidad: 1,
         botonTexto: "Comprar Ahora"
 
